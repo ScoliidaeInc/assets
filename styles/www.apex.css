@@ -1,4 +1,19 @@
 * {
+  font-family : 'inter';
+  font-size   : 1.333;
+  /* Light Mode Color Scheme: */
+  /* Text Color:      #0f060c */
+  /* Background:      #fcf8fb */
+  /* Active/Alert:    #bc499d */
+  /* Secondary:       #dad59a */
+  /* Accent:          #99c86a */
+  /*                          */
+  /* Dark Mode Color Scheme:  */
+  /* Text Color:      #f9f0f6 */
+  /* Background:      #070306 */
+  /* Active/Alert:    #b64398 */
+  /* Secondary:       #655f25 */
+  /* Accent:          #669537 */
   background-color: black;
   color: white;
 };
