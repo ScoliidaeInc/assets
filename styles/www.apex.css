@@ -21,3 +21,10 @@
 span.article-updated-timestamp {
   float: right;
 }
+
+
+@media screen and (orientation:portrait) {
+  * {
+    font-size: 1.333vh;
+  }
+}
