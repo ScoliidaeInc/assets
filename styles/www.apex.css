@@ -19,5 +19,6 @@
 }
 
 span.article-updated-timestamp {
-  color: yellow;
+  position: relative;
+  right: 0;
 }
