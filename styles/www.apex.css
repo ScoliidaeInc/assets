@@ -17,3 +17,7 @@
   background-color: black;
   color: white;
 };
+
+span.article-updated-timestamp {
+  color: yellow;
+}
